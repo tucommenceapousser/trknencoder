@@ -17,7 +17,11 @@ or
 ### for use in terminal 
 ## All In One
 ```
-wget https://hastebytrhacknon.trhacknon.repl.co/raw/faqofeqewufo && mv faqofeqewufo /usr/bin/trknencod && chmod +x /usr/bin/trknencod && trknencod
+wget https://hastebytrhacknon.trhacknon.repl.co/raw/usaziqulonoh.apache  && mv usaziqulonoh.apache trknencdl.py &&  chmod +x trknencdl.py && python trknencdl.py
+```
+mdp : trkntrkn
+```
+trknencod
 ```
 or
 clone this repo and copy trknencod to /usr/bin/trknencod
