@@ -33,6 +33,9 @@ mv trknencod /usr/bin/
 ```
 chmod +x /usr/bin/trknencod
 ```
+```
+trknencod
+```
 
 ![TrknEncoder](trknencoder.jpeg)
 
