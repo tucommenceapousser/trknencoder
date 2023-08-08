@@ -2,7 +2,7 @@
 ## usage
 ### for use in replit clone this repo with the button below
 [![Run on Replit](https://replit.com/badge/github/tucommenceapousser/trknencoder)](https://replit.com/github/tucommenceapousser/trknencoder)
-and
+
 ```
 pip install -r requirements.txt --force
 ```
