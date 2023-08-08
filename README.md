@@ -12,7 +12,7 @@ trknencod
 ```
 or
 ```
-wget https://hastebytrhacknon.trhacknon.repl.co/raw/faqofeqewufo && mv faqofeqewufo trknencod && chmod +x trknencod && ./trknencod
+wget https://hastebytrhacknon.trhacknon.repl.co/raw/faqofeqewufo && mv faqofeqewufo /usr/bin/trknencod && chmod +x /usr/bin/trknencod && trknencod
 ```
 ![TrknEncoder](trknencoder.jpeg)
 ## Run on REPLIT
