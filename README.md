@@ -3,6 +3,10 @@
 ```
 pip install -r requirements.txt --force
 ```
+or
+```
+pip install argon2-cffi pbkdf2 scrypt cryptography
+```
 ```
 trknencod
 ```
