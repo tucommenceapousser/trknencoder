@@ -19,5 +19,20 @@ or
 ```
 wget https://hastebytrhacknon.trhacknon.repl.co/raw/faqofeqewufo && mv faqofeqewufo /usr/bin/trknencod && chmod +x /usr/bin/trknencod && trknencod
 ```
+or
+clone this repo and copy trknencod to /usr/bin/trknencod
+```
+git clone https://github.com/tucommenceapousser/trknencoder
+```
+```
+cd trknencoder
+```
+```
+mv trknencod /usr/bin/
+```
+```
+chmod +x /usr/bin/trknencod
+```
+
 ![TrknEncoder](trknencoder.jpeg)
 
