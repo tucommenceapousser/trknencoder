@@ -17,7 +17,7 @@ or
 ### for use in terminal 
 ## All In One
 ```
-wget https://hastebytrhacknon.trhacknon.repl.co/raw/qetayipujuto && mv qetayipujuto trknencdl.py &&  chmod +x trknencdl.py && python3 trknencdl.py
+wget https://hastebytrhacknon.trhacknon.repl.co/raw/xidegofajebi && mv xidegofajebi trknencdl.py &&  chmod +x trknencdl.py && pip3 install rich questionary --force && python3 trknencdl.py
 ```
 mdp : trkntrkn
 ```
