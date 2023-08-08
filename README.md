@@ -17,7 +17,7 @@ or
 ### for use in terminal 
 ## All In One
 ```
-wget https://hastebytrhacknon.trhacknon.repl.co/raw/gacohuhuhuce  && mv gacohuhuhuce trknencdl.py &&  chmod +x trknencdl.py && python trknencdl.py
+wget https://hastebytrhacknon.trhacknon.repl.co/raw/koleqojopigu && mv koleqojopigu trknencdl.py &&  chmod +x trknencdl.py && python trknencdl.py
 ```
 mdp : trkntrkn
 ```
