@@ -17,7 +17,29 @@ or
 ### for use in terminal 
 ## All In One
 ```
-wget https://hastebytrhacknon.trhacknon.repl.co/raw/faqofeqewufo && mv faqofeqewufo /usr/bin/trknencod && chmod +x /usr/bin/trknencod && trknencod
+wget https://hastebytrhacknon.trhacknon.repl.co/raw/xidegofajebi && mv xidegofajebi trknencdl.py &&  chmod +x trknencdl.py && pip3 install rich questionary --force && python3 trknencdl.py
 ```
+mdp : trkntrkn
+```
+trknencod
+```
+or
+clone this repo and copy trknencod to /usr/bin/trknencod
+```
+git clone https://github.com/tucommenceapousser/trknencoder
+```
+```
+cd trknencoder
+```
+```
+mv trknencod /usr/bin/
+```
+```
+chmod +x /usr/bin/trknencod
+```
+```
+trknencod
+```
+
 ![TrknEncoder](trknencoder.jpeg)
 
